@@ -1,0 +1,9 @@
+Transaction Type	Item Code	Supplier/Hospital Code	Quantity Received/Distributed	Date-Time
+Distributed to Hospital	FS	HPL001	-80	2024-09-27 09:31:53
+Received from Supplier	HC	SPL001	10	2024-09-27 09:38:56
+Received from Supplier	HC	SPL001	10	2024-10-03 13:42:08
+Received from Supplier	HC	SPL001	10	2024-10-08 12:33:27
+Distributed to Hospital	SC	HPL002	-20	2024-10-11 08:56:17
+Distributed to Hospital	FS	HPL002	-30	2024-10-11 23:39:29
+Received from Supplier	FS	SPL001	10	2024-10-11 23:43:20
+Received from Supplier	FS	SPL002	20	2024-10-12 13:54:19

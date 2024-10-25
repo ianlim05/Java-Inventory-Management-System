@@ -1,0 +1,5 @@
+Code	Name	Contact	Address	
+SPL001	Meddoc	012-1357913	12, Jalan Desa Satu, Taman Don	
+SPL002	MedMud	013-2468248	43,Jalan Wao, Taman Biru	
+SPL003	Heyaid	017-4285935	67, Jalan Dua Mas, Taman Jon	
+SPL004	Evno	016-4259096	53a, Jalan Jiga, Taman Kali	

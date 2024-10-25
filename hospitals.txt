@@ -1,0 +1,5 @@
+Code	Name	Contact	Address	
+HPL001	TrustCare	016-5305363	No.5, Pusat Bandar Sri Rampai, Setapak	
+HPL002	ProHealth	014-3425920	Unit 123, Jalan Lagoon Timur, Petaling Jaya	
+HPL003	EliteCare	012-5396239	31, Jalan Gangsa, Taman Pelangi	
+HPL004	Premier	015-5398924	No19 Block B, Jalan Subang , Subang Jaya	

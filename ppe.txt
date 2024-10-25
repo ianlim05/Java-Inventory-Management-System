@@ -1,0 +1,7 @@
+Item Code	Item Name	Supplier Code	QuantityInStock(boxes)	Last Updated
+FS	Face Shield	SPL002	20	2024-10-12 13:54:19
+GL	Gloves	SPL004	100	2024-09-26 21:15:47
+GW	Gown	SPL001	100	2024-09-26 21:16:08
+HC	Head Cover	SPL001	130	2024-10-08 12:33:27
+MS	Mask	SPL003	100	2024-09-26 21:15:12
+SC	Shoe Covers	SPL003	80	2024-10-11 21:06:28

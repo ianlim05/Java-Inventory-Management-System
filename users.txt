@@ -1,0 +1,4 @@
+User ID	Username	Password	User Type	
+USR001	Ian	1234	Staff	
+USR002	Chan	1234	Staff	
+USR003	Ang	1234	Staff	
